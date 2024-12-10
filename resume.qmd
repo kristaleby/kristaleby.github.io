@@ -1,89 +1,84 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Kristal Eng's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Kristal Eng
+current Brigham Young University - Idaho student
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://laughing-adventure-wgromre.pages.github.io/">Github</a>
+| <a href="https://www.linkedin.com/in/kristal-eng-450401204/
+">Linkedin</a>
 </div>
 
+## Contact Information
 
-## Currently
+Mobile: +1 (208) 973-5574
 
-Standing on the shoulders of giants
+Email: kristaleng.by@gmail.com
+
+## Searching for
+
+Internships, full-time positions
+
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Microsoft Excel, SQL
 
 
-### Research interests
+### Languages
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- English
+- Mandarin Chinese
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Sep 2023 - current`
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+__Brigham Young University - Idaho__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Bachelor of Science in Business Analytics
+ - Minor in Economics
 
 
 
-## Awards
+`Apr 2017 - May 2020`
 
-`2012`
-President, *Royal Society*, London, UK
+__Nanyang Polytechnic, Singapore__
 
-Associate, *French Academy of Science*, Paris, France
-
+- Diploma in Biologics and Process Technology (Associates)
 
 
-## Publications
+## Work Experience
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- __Teacher's Assistant__, 2023 - current
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Brigham Young University - Idaho | USA
 
 
-## Occupation
+- __Part Time Service Crew__, Mar 2023 - Sep 2023
 
-`1600`
-__Royal Mint__, London
+iSteaks Restaurant | Singapore
 
-- Warden
-- Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- __Paralegal__, Aug 2022 - Feb 2023
 
+Nanyang Law LLC | Singapore
+
+
+- __Financial Consultant__, Aug 2021 - Jul 2022
+
+Prudential Assurance Company Singapore | Singapore
+
+
+## Volunteer Work
+
+- _BYUI HJG Mentoring Program_
+- _Chinese Conversation Lab_
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Dec 2024 -->
